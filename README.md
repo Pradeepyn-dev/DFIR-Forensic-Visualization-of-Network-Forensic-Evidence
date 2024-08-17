@@ -19,7 +19,7 @@ Implementation ⚙️
 Installation 🚀
 To set up the DFIR project:
 1.	Clone the Repository:
-git clone https://github.com/yourusername/DFIR.git
+git clone https://github.com/Pradeepyn-dev/DFIR-Forensic-Visualization-of-Network-Forensic-Evidence.git
 2.	Navigate to the Project Directory:
 cd DFIR
 
